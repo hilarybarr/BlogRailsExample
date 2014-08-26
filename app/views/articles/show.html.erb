@@ -1,0 +1,16 @@
+Title: <%=@article.title %><br>
+Body: <%=@article.body %><br>
+
+
+<h3>Comments (<%= @article.comments.count %>)</h3>
+
+
+<%= render partial: 'articles/comment', collection: @article.comments %>
+
+<%= render partial: 'comments/form' %>
+
+
+
+<%= link_to "Home", articles_path %>
+
+
