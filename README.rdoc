@@ -1,3 +1,3 @@
 == README
 
-This is my example app for Dev Bootcamp Phase 3 students who are learning Rails. This fully-functioning app demonstrates how to build a Rails app with blog posts and comments. 
+This is my example app for Dev Bootcamp Phase 3 students who are learning Rails. This fully-functioning app demonstrates how to build a Rails app with blog posts and comments. If you have any questions feel free to contact me at hilarybarr@aya.yale.edu 
